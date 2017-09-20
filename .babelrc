@@ -1,0 +1,18 @@
+{
+    "env": {
+        "test": {
+            "plugins": [
+                ["istanbul", {
+                    "exclude": [
+                        "**/test/*.js",
+                        "**/test/*.vue"
+                    ]
+                }]
+            ]
+        }
+    },
+    "presets": [
+        ["es2015", { "modules": false }],
+        "stage-2"
+    ]
+}
