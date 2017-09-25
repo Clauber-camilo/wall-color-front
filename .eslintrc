@@ -7,6 +7,16 @@
         "browser": true,
         "commonjs": true
     },
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true,
+            "modules": true,
+            "experimentalObjectRestSpread": true
+        }
+    },
+    "parser": "babel-eslint",
     "globals": {
         "import": true
     },

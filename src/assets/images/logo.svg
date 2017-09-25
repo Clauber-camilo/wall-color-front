@@ -1,0 +1,35 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" viewBox="311.717 306 447.007 413">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 10px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(328 306)">
+    <circle class="cls-4" cx="206.5" cy="206.5" r="206.5"/>
+    <circle class="cls-2" cx="206.5" cy="206.5" r="201.5"/>
+  </g>
+  <path id="Path_1" data-name="Path 1" class="cls-1" d="M351,423.887,525.977,706.12,704.923,423.887Z" transform="translate(-30.304 0.555)"/>
+  <path id="Path_2" data-name="Path 2" class="cls-1" d="M351,423.887,525.977,706.12,704.923,423.887Z" transform="translate(44.71 0.555)"/>
+  <path id="Path_3" data-name="Path 3" class="cls-2" d="M336.961,456.711l158.75,255.918L535.129,649.8,395,421.336H351.285Z"/>
+  <path id="Path_4" data-name="Path 4" class="cls-3" d="M496.148,714.688C361.207,688.775,336.961,559.012,336.961,559.012s-13.957-58.744,0-102.65,2.443,2.318,2.443,2.318l154.361,250.2Z"/>
+  <path id="Path_5" data-name="Path 5" class="cls-3" d="M330.758,703.147c133.671-24.834,157.689-149.2,157.689-149.2s13.826-56.3,0-98.378-2.42,2.222-2.42,2.222L333.118,697.58Z" transform="translate(242.586 8)"/>
+  <path id="Path_6" data-name="Path 6" class="cls-2" d="M534.5,650.578,680.625,421.77H393.371Z"/>
+  <path id="Union_1" data-name="Union 1" class="cls-3" d="M126.743,119.542l54.852-5.354H0S45.34-.172,184.375,0,368.8,114.188,368.8,114.188H245.388L182.959,209.2Z" transform="translate(349.441 308.254)"/>
+  <path id="Path_8" data-name="Path 8" class="cls-1" d="M351,423.887,452.88,588.214,557.07,423.887Z" transform="translate(80.385 -70.539)"/>
+  <path id="Path_10" data-name="Path 10" class="cls-3" d="M496.148,706.675l36.619-56.314,37.652,58.914-37.652,5.914Z"/>
+</svg>
