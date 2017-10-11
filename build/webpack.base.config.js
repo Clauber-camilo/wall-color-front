@@ -30,7 +30,6 @@ module.exports = {
             _app: app,
             _store: path.join(src, 'store'),
             _common: path.join(app, 'common'),
-            _modules: path.join(app, 'modules'),
             _components: path.join(app, 'components'),
             _services: path.join(app, 'services'),
             _views: path.join(app, 'views'),

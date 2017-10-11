@@ -4,6 +4,5 @@ dist/
 npm-debug.log*
 src/config/config.local.js
 .vscode/
-coverage/
 yarn.lock
 index.html
